@@ -1,52 +1,82 @@
-Luxolo Matshikiza
-📍 8 Jongilanga NY110, Gugulethu, Cape Town  |  📞 065 187 4936
-✉️ luxs.matshikiza@gmail.com  |  🔗 LinkedIn  |  🐙 GitHub: Luxolo98
+# Luxolo Matshikiza
 
-🎥 Mock Interview
-▶️ Watch my Mock Interview
+📍 8 Jongilanga NY110, Gugulethu, Cape Town &nbsp;|&nbsp; 📞 065 187 4936  
+✉️ [luxs.matshikiza@gmail.com](mailto:luxs.matshikiza@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/luxolo-matshikiza922889234/) &nbsp;|&nbsp; 🐙 [GitHub: Luxolo98](https://github.com/Luxolo98)
 
-Professional Summary
+---
+
+## Professional Summary
+
 Dedicated final-year student with extensive experience in technical troubleshooting and stakeholder management. Proficient in Java development and IT methodologies to resolve complex challenges efficiently. A well-rounded individual committed to delivering technical solutions that balance system functionality with exceptional user satisfaction.
 
-Experience
-Advisor — WNS (BPO)
-Jun 2024 – Feb 2025
+---
 
-Delivered comprehensive technical support for smart metering systems, diagnosing and resolving complex issues.
-Leveraged SAP systems to enhance customer service efficiency and ensure prompt supply restoration.
-Maintained adherence to strict operational protocols and regulatory standards.
+## Experience
 
+### Advisor — WNS (BPO)
+**Jun 2024 – Feb 2025**
 
-IT Support Technician — Let Me Repair
-Dec 2023 – Mar 2024
+- Delivered comprehensive technical support for smart metering systems, diagnosing and resolving complex issues.
+- Leveraged SAP systems to enhance customer service efficiency and ensure prompt supply restoration.
+- Maintained adherence to strict operational protocols and regulatory standards.
 
-Managed technical maintenance and updates of tills, including troubleshooting hardware and software issues.
-Deployed new IT systems for the Shoprite Group, ensuring seamless integration.
-Utilised tools like BigFix and gpupdate/force to execute system-wide updates and configurations.
+---
 
+### IT Support Technician — Let Me Repair
+**Dec 2023 – Mar 2024**
 
-Education
-QualificationInstitutionPeriodDIP: ICT in Application DevelopmentCape Peninsula University of Technology2023 – 2026Higher Certificate in Information TechnologyCape Peninsula University of Technology2022MatricOude Molen THS, Cape Town2013 – 2018
+- Managed technical maintenance and updates of tills, including troubleshooting hardware and software issues.
+- Deployed new IT systems for the Shoprite Group, ensuring seamless integration.
+- Utilised tools like BigFix and `gpupdate/force` to execute system-wide updates and configurations.
 
-Skills
-CategoryDetailsSupport & OperationsHelpdesk, Technical Support & Troubleshooting, IT Systems Deployment & MaintenanceSystemsSAP & CRM SystemsLanguagesJava, CSS, JavaScript, PHPToolsNetBeans, IntelliJ, VS Code, Git
+---
 
-Project
-Student Residence Application
-CPUT Team Project
+## Education
+
+| Qualification | Institution | Period |
+|---|---|---|
+| DIP: ICT in Application Development | Cape Peninsula University of Technology | 2023 – 2026 |
+| Higher Certificate in Information Technology | Cape Peninsula University of Technology | 2022 |
+| Matric | Oude Molen THS, Cape Town | 2013 – 2018 |
+
+---
+
+## Skills
+
+| Category | Details |
+|---|---|
+| Support & Operations | Helpdesk, Technical Support & Troubleshooting, IT Systems Deployment & Maintenance |
+| Systems | SAP & CRM Systems |
+| Languages | Java, CSS, JavaScript, PHP |
+| Tools | NetBeans, IntelliJ, VS Code, Git |
+
+---
+
+## Project
+
+### Student Residence Application
+**CPUT Team Project**
+
 Developed a Java application using Swing GUI components and pattern matching validation to provide:
 
-Secure user registration
-Residence search functionality
-Accommodation browsing with details
-Housing application management with database persistence
+- Secure user registration
+- Residence search functionality
+- Accommodation browsing with details
+- Housing application management with database persistence
 
+---
 
-References
-NameRoleContactByron LambManager — Let Me Repair083 794 3561Yonela DtyantyiTeam Leader — WNS069 835 3364
+## References
 
-Hobbies
+| Name | Role | Contact |
+|---|---|---|
+| Byron Lamb | Manager — Let Me Repair | 083 794 3561 |
+| Yonela Dtyantyi | Team Leader — WNS | 069 835 3364 |
 
-🏃 Hiking and Marathons
-📷 Photography
-🎵 Music Curation
+---
+
+## Hobbies
+
+- 🏃 Hiking and Marathons
+- 📷 Photography
+- 🎵 Music Curation
