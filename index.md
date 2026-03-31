@@ -1,124 +1,52 @@
-# Luxolo Matshikiza
+Luxolo Matshikiza
+📍 8 Jongilanga NY110, Gugulethu, Cape Town  |  📞 065 187 4936
+✉️ luxs.matshikiza@gmail.com  |  🔗 LinkedIn  |  🐙 GitHub: Luxolo98
 
-📍 159 St Andrews Dr, Cape Town &nbsp;|&nbsp; 📞 065 187 4936 &nbsp;|&nbsp; ✉️ [luxs.matshikiza@gmail.com](mailto:luxs.matshikiza@gmail.com)
+🎥 Mock Interview
+▶️ Watch my Mock Interview
 
----
+Professional Summary
+Dedicated final-year student with extensive experience in technical troubleshooting and stakeholder management. Proficient in Java development and IT methodologies to resolve complex challenges efficiently. A well-rounded individual committed to delivering technical solutions that balance system functionality with exceptional user satisfaction.
 
-Motivated final-year ICT Applications Development student at CPUT, with hands-on industry experience in technical support, account management, and IT systems deployment. Strong foundation in Java development, troubleshooting, SAP systems, and help desk operations — complemented by real-world exposure across BPO, retail, IT, and account management environments.
+Experience
+Advisor — WNS (BPO)
+Jun 2024 – Feb 2025
 
----
+Delivered comprehensive technical support for smart metering systems, diagnosing and resolving complex issues.
+Leveraged SAP systems to enhance customer service efficiency and ensure prompt supply restoration.
+Maintained adherence to strict operational protocols and regulatory standards.
 
-## 💼 Work Experience
 
-### Account Executive — Concentrix
-**Feb 2025 – Sep 2025**
+IT Support Technician — Let Me Repair
+Dec 2023 – Mar 2024
 
-- Successfully negotiated with high-risk customers to prevent service cancellations, consistently meeting or exceeding monthly retention targets.
-- Managed customer billing and account lifecycles, applying strategic offers and credits to ensure long-term loyalty and account health.
-- Resolved complex equipment and signal issues for services, reducing the need for technician dispatches and improving customer experience.
+Managed technical maintenance and updates of tills, including troubleshooting hardware and software issues.
+Deployed new IT systems for the Shoprite Group, ensuring seamless integration.
+Utilised tools like BigFix and gpupdate/force to execute system-wide updates and configurations.
 
----
 
-### Advisor — WNS (BPO)
-**Jun 2024 – Feb 2025**
+Education
+QualificationInstitutionPeriodDIP: ICT in Application DevelopmentCape Peninsula University of Technology2023 – 2026Higher Certificate in Information TechnologyCape Peninsula University of Technology2022MatricOude Molen THS, Cape Town2013 – 2018
 
-- Delivered comprehensive technical support for smart metering systems, diagnosing and resolving complex issues.
-- Leveraged SAP systems to enhance customer service efficiency and ensure prompt supply restoration.
-- Maintained adherence to strict operational protocols and regulatory standards.
+Skills
+CategoryDetailsSupport & OperationsHelpdesk, Technical Support & Troubleshooting, IT Systems Deployment & MaintenanceSystemsSAP & CRM SystemsLanguagesJava, CSS, JavaScript, PHPToolsNetBeans, IntelliJ, VS Code, Git
 
----
+Project
+Student Residence Application
+CPUT Team Project
+Developed a Java application using Swing GUI components and pattern matching validation to provide:
 
-### IT Support Technician — Let Me Repair
-**Dec 2023 – Mar 2024**
+Secure user registration
+Residence search functionality
+Accommodation browsing with details
+Housing application management with database persistence
 
-- Managed technical maintenance and updates of tills, including troubleshooting hardware and software issues.
-- Deployed new IT systems for the Shoprite Group, ensuring seamless integration.
-- Utilised tools like BigFix and `gpupdate/force` to execute system-wide updates and configurations.
 
----
+References
+NameRoleContactByron LambManager — Let Me Repair083 794 3561Yonela DtyantyiTeam Leader — WNS069 835 3364
 
-### Collections Customer Agent — EXL
-**Mar 2023 – Dec 2023**
+Hobbies
 
-- Provided financial solutions by negotiating payment arrangements and analysing client accounts.
-- Ensured compliance with regulatory guidelines while maintaining detailed records of all interactions.
-
----
-
-### Customer Service Consultant — Big Five Duty-Free
-**Aug 2022 – Feb 2023**
-
-- Delivered exceptional service at point-of-sale systems and assisted customers with product selections.
-- Promoted high-value products, including wine and fragrances, to enhance sales performance.
-
----
-
-### Airport Service Agent — Aviation Coordination Services
-**Sep 2021 – Mar 2022**
-
-- Supported passengers with self-service check-ins and provided solutions for boarding-related issues.
-- Guided passengers through customs and other formalities to ensure smooth travel experiences.
-- Performed administrative duties, including maintaining accurate records and managing operational documentation.
-
----
-
-### Cashier — Big Five Duty-Free
-**Sep 2019 – Mar 2020**
-
-- Operated point-of-sale systems and ensured accurate transactions.
-- Promoted premium products to enhance customer experiences and drive sales.
-
----
-
-## 🎓 Education
-
-| Qualification | Institution | Year |
-|---|---|---|
-| ICT Diploma: Applications Development *(Final Year)* | Cape Peninsula University of Technology | 2026 |
-| Higher Certificate in Information Technology | Cape Peninsula University of Technology | 2022 |
-| Matric | Oude Molen THS, Cape Town | 2018 |
-
----
-
-## 🏅 Certifications
-
-| Certification | Issuer | Period |
-|---|---|---|
-| Google Technical Support | Coursera | Jul 2022 – Sep 2026 |
-| Kubernetes and Cloud Native Associate | Andela: African Developer Training Program | Mar 2026 – May 2026 |
-
----
-
-## 🚀 Projects
-
-### Student Enrollment System
-**CPUT Project Assignment — Nov 2025**
-
-Developed a three-tier client-server enrollment system using **Java Swing**, **socket programming**, and **JDBC with Apache Derby**.
-
-- Implemented role-based authentication and the DAO pattern with `PreparedStatements` for secure database operations.
-- Used object serialisation for efficient network communication.
-- Supports concurrent CRUD operations for students, courses, and enrolments with referential integrity enforcement.
-
----
-
-## 🛠 Skills
-
-### Languages & Frameworks
-
-`Java` `PHP` `JavaScript` `Spring Boot` `Laravel`
-
-### Tools & Platforms
-
-`SAP` `CRM Systems` `BigFix` `Microsoft Office Suite` `Smart Metering Systems`
-
-### Core Competencies
-
-- Analytical Problem-Solving
-- Hardware & Software Troubleshooting
-- IT Systems Deployment & Maintenance
-- Help Desk Operations
-- Customer Service & Issue Resolution
-- Technical Support & Troubleshooting
-- Stakeholder Management
-- Effective Communication (Written & Verbal)
+🏃 Hiking and Marathons
+📷 Photography
+🎵 Music Curation
