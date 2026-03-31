@@ -5,6 +5,12 @@
 
 ---
 
+## 🎥 Mock Interview
+
+[▶️ Watch my Mock Interview](https://github.com/Luxolo98/Luxolo98.github.io/blob/main/Mock%20interview%20Luxolo%20Matshikiza%20219098751%20(1)%20(1)%20(1).mp4)
+
+---
+
 ## Professional Summary
 
 Dedicated final-year student with extensive experience in technical troubleshooting and stakeholder management. Proficient in Java development and IT methodologies to resolve complex challenges efficiently. A well-rounded individual committed to delivering technical solutions that balance system functionality with exceptional user satisfaction.
