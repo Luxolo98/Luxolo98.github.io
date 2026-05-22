@@ -26,9 +26,9 @@ Task:My main goal was to create an interview that was showcasing my confidence a
 
 Action: I chose questions that alined with me and made sure the questions and video was succinct and attention grabbing without being lengthy and boring.
 
-esult: Yhe result was a short video that was showcaing my character and leaving room to actually wanting to know me some more. 
+Result: Yhe result was a short video that was showcaing my character and leaving room to actually wanting to know me some more. 
 
-As always interviews can be daunting when you have not managed to be able to speak and articulate your own thoughts to help your character come across to your audience. With this I believe I have a new found respect for the STAR method as it helps get your point across sequentially but when structured in a conversational manner the engagement is that much more interesting.  
+As always interviews can be daunting when you have not managed to be able to speak and articulate your own thoughts to help your character come across to your audience. With this I believe I have a new found respect for the STAR method as it helps get your point across sequentially but when structured in a conversational manner the engagement is that much more interesting. I did one challenge with editing the video  to include captions of the questions at the bottom for a better listening and watching experince   
 
 
 ## Reflection: GitHub Pages
