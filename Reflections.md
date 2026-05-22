@@ -28,8 +28,8 @@ Action: I chose questions that alined with me and made sure the questions and vi
 
 esult: Yhe result was a short video that was showcaing my character and leaving room to actually wanting to know me some more. 
 
-AS always interviews can be daunting when you have not managed to be able to speak and articulate your own thoughts to help your character come across to your audience. With this I believe I have a new found respect for the STAR method as it helps get your point across sequentially but when structured in a conversational manner the engagement is that much more interesting.  
----
+As always interviews can be daunting when you have not managed to be able to speak and articulate your own thoughts to help your character come across to your audience. With this I believe I have a new found respect for the STAR method as it helps get your point across sequentially but when structured in a conversational manner the engagement is that much more interesting.  
+
 
 ## Reflection: GitHub Pages
 
