@@ -1,11 +1,15 @@
 # Luxolo Matshikiza
 
 📍 Cape Town &nbsp;|&nbsp; 📞 065 187 4936  
-✉️ [luxs.matshikiza@gmail.com](mailto:luxs.matshikiza@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/luxolo-matshikiza922889234/)    📁 [Agile Portfolio: PC Revival (Entrepreneurial WIL Project)](agile) &nbsp;|&nbsp; 🐙 [GitHub: Luxolo98](https://github.com/Luxolo98)
+✉️ [luxs.matshikiza@gmail.com](mailto:luxs.matshikiza@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/luxolo-matshikiza922889234/)     &nbsp;|&nbsp; 🐙 [GitHub: Luxolo98](https://github.com/Luxolo98)
 
 ---
 
 ## Professional Summary
+
+   ## Agile Portfolio
+
+   [Agile Portfolio: PC Revival (Entrepreneurial WIL Project)](agile)
 
 Dedicated final-year student with extensive experience in technical troubleshooting and stakeholder management. Proficient in Java development and IT methodologies to resolve complex challenges efficiently. A well-rounded individual committed to delivering technical solutions that balance system functionality with exceptional user satisfaction.
 
