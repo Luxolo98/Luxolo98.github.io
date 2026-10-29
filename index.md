@@ -1,6 +1,6 @@
 # Luxolo Matshikiza
 
-📍 8 Jongilanga NY110, Gugulethu, Cape Town &nbsp;|&nbsp; 📞 065 187 4936  
+📍 Cape Town &nbsp;|&nbsp; 📞 065 187 4936  
 ✉️ [luxs.matshikiza@gmail.com](mailto:luxs.matshikiza@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/luxolo-matshikiza922889234/) &nbsp;|&nbsp; 🐙 [GitHub: Luxolo98](https://github.com/Luxolo98)
 
 ---
