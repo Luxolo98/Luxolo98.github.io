@@ -67,7 +67,7 @@ User stories were broken into tasks on Trello. My stories and tasks:
 |-------|-------------------|
 | As a student, I want to see the services offered, so that I know what help is available. | Define Services offered (Sprint 3, due 6 May), **assigned to me** |
 | As a student, I want to book a repair online, so that I do not have to visit in person first. | Build booking system logic (Sprint 6), with Ayabonga and Sinothando |
-| As an admin, I want to manage requests and data securely, so that I can run the business. | Set up Supabase backend; Design PostgreSQL database schema; Implement CRUD API endpoints (Sprint 6), with Ayabonga | As a student, I want to leave a rating and brief review after my laptop is returned, so that I can provide feedback on the turnaround time and repair quality. | Create post-service review form; store ratings in PostgreSQL; render verified student testimonials on the landing page | As an admin, I want to generate and send an updated quote for parts before proceeding with a repair, so that the student can approve unexpected costs before work begins.| Add custom quotation modal in admin panel; implement student approval/rejection state transition | As a student, I want to cancel or reschedule my drop-off slot online, so that I can free up the slot if my lecture or exam schedule changes. | Add a booking management view for users via secure link; create cancellation/reschedule API endpoints
+| As an admin, I want to manage requests and data securely, so that I can run the business. | Set up Supabase backend; Design PostgreSQL database schema; Implement CRUD API endpoints (Sprint 6), with Ayabonga 
 
 
 ### Reflection
