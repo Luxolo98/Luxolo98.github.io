@@ -34,6 +34,8 @@ em{color:#52606d}
 
 ### Evidence
 
+![Team charter: ways of working](images/charter-ways-of-working.png)
+
 The Agile Team Charter was our team's shared agreement for PC Revival, written in Google Docs and last updated on 4 May 2026. Its main parts:
 
 - **Purpose and vision:** an affordable, trustworthy on-campus laptop repair, upgrade and refurbished laptop service for CPUT students.
