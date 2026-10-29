@@ -59,13 +59,13 @@ A summary of the software projects I have worked on during my Diploma in ICT (Ap
 
 **What it is:** A booking system for organisations such as hospitals and schools to book nurses and teachers respectively.
 
-**My role:** **[Design the Organisational POJO and all related design pattern distribution]**
+**My role:** Design the Organisational POJO and all related design pattern distribution
 
 **Tech:** Java (with design patterns), React, Tailwind CSS
 
-**Status:** Runs locally. Source code on GitHub: **[https://github.com/Siyamthanda-Mnyabiso/herms]**
+**Status:** Runs locally. Source code on GitHub: https://github.com/Siyamthanda-Mnyabiso/herms
 
-**Design patterns used:** **[Factory,Singleton,Creational,Behavioural,Structural]**
+**Design patterns used:** Factory,Singleton,Creational,Behavioural,Structural
 
 ![HERMS screenshot](images/herms.png)
 
@@ -78,9 +78,9 @@ A summary of the software projects I have worked on during my Diploma in ICT (Ap
 
 **What it is:** A campus marketplace where students, faculty, residents and local vendors can buy, sell and trade. It has verified campus members, browse and free-stuff pages, local vendor shops, a wanted board for requests, in-app messaging, suggested safe pickup spots and campus events.
 
-**My role:** **[Business Requirements and Supabase design]**
+**My role:** Business Requirements and Supabase design
 
-**Tech:** **[Node.js, and React + Vite., Supabase, Vercel]**
+**Tech:** Node.js, and React + Vite., Supabase, Vercel
 
 **Live site:** [unimart-mu.vercel.app](https://unimart-mu.vercel.app/)
 
@@ -95,9 +95,9 @@ A summary of the software projects I have worked on during my Diploma in ICT (Ap
 
 **What it is:** An online store for a clothing business that had no online presence for trading, so customers can browse and buy its products on the web.
 
-**My role:** **[Design database Supabase]**
+**My role:** Design database Supabase
 
-**Tech:** **[Supabase React, Vercel]**
+**Tech:** Supabase React, Vercel
 
 **Live site:** [eben-studios.vercel.app](https://eben-studios.vercel.app/)
 
@@ -127,7 +127,7 @@ A summary of the software projects I have worked on during my Diploma in ICT (Ap
 
 **What it is:** A Java application using Swing GUI components and pattern matching validation. It provides secure user registration, residence search, accommodation browsing with details, and housing application management with database persistence.
 
-**My role:** **[Database design and Registration page design]**
+**My role:** Database design and Registration page design
 
 **Tech:** Java, Swing, database persistence
 
