@@ -39,7 +39,8 @@ The charter was a group document. It was built by the whole team and sets out ou
 - My contribution: I contributed directly to setting our team success metrics, defining our survey research deliverables, and documenting the core technical roles and backend responsibilities for our service platform.
 - Related card on Trello: *Assign group roles* (Product Backlog list, due 2 Mar), a whole-team card.
 
-### Reflection
+### Reflection 
+*Note on method: All my reflections in this portfolio follow Gibbs' Reflective Cycle (Gibbs, 1988): Description, Feelings, Evaluation, Analysis, Conclusion and Action plan. I chose it because it is a widely used framework in higher education and its structure moves me from describing what happened to deciding what I will do differently.I feel its the most evidence based reflective framework*
 
 **Description.** The charter was our written team guide that defined PC Revival, our campus laptop repair and refurbished tech project for CPUT students. We built it together using Google Docs and a Trello sprint board to agree on roles, rules, and our Definition of Done. Everyone took clear ownership of specific areas, and I was assigned to research and backend development tasks like database design.
 
