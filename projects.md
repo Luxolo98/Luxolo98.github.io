@@ -59,13 +59,13 @@ A summary of the software projects I have worked on during my Diploma in ICT (Ap
 
 **What it is:** A booking system for organisations such as hospitals and schools to book nurses and teachers respectively.
 
-**My role:** **[WRITE: what you built, e.g. the Java back end, the design patterns you applied, the React screens]**
+**My role:** **[Design the Organisational POJO and all related design pattern distribution]**
 
 **Tech:** Java (with design patterns), React, Tailwind CSS
 
-**Status:** Runs locally. Source code on GitHub: **[ADD REPO LINK]**
+**Status:** Runs locally. Source code on GitHub: **[https://github.com/Siyamthanda-Mnyabiso/herms]**
 
-**Design patterns used:** **[LIST THE PATTERNS, e.g. Factory, Singleton, Observer, and where you used them]**
+**Design patterns used:** **[Factory,Singleton,Creational,Behavioural,Structural]**
 
 ![HERMS screenshot](images/herms.png)
 
@@ -80,7 +80,7 @@ A summary of the software projects I have worked on during my Diploma in ICT (Ap
 
 **My role:** **[WRITE: your part of the group work]**
 
-**Tech:** **[CONFIRM: e.g. Next.js, Supabase, Vercel]**
+**Tech:** **[Node.js, and React + Vite., Supabase, Vercel]**
 
 **Live site:** [unimart-mu.vercel.app](https://unimart-mu.vercel.app/)
 
@@ -95,9 +95,9 @@ A summary of the software projects I have worked on during my Diploma in ICT (Ap
 
 **What it is:** An online store for a clothing business that had no online presence for trading, so customers can browse and buy its products on the web.
 
-**My role:** **[WRITE: your part of the group work]**
+**My role:** **[Design database Supabase]**
 
-**Tech:** **[ADD: e.g. React, Vercel]**
+**Tech:** **[Supabase React, Vercel]**
 
 **Live site:** [eben-studios.vercel.app](https://eben-studios.vercel.app/)
 
@@ -127,7 +127,7 @@ A summary of the software projects I have worked on during my Diploma in ICT (Ap
 
 **What it is:** A Java application using Swing GUI components and pattern matching validation. It provides secure user registration, residence search, accommodation browsing with details, and housing application management with database persistence.
 
-**My role:** **[WRITE: your part of the group work]**
+**My role:** **[Database design and Registration page design]**
 
 **Tech:** Java, Swing, database persistence
 
