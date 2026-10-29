@@ -66,8 +66,8 @@ User stories were broken into tasks on Trello. My stories and tasks:
 | Story | Tasks I worked on |
 |-------|-------------------|
 | As a student, I want to see the services offered, so that I know what help is available. | Define Services offered (Sprint 3, due 6 May), **assigned to me** |
-| As a student, I want to book a repair online, so that I do not have to visit in person first. | Build booking system logic (Sprint 6), with AY and MS |
-| As an admin, I want to manage requests and data securely, so that I can run the business. | Set up Supabase backend; Design PostgreSQL database schema; Implement CRUD API endpoints (Sprint 6), with AY |
+| As a student, I want to book a repair online, so that I do not have to visit in person first. | Build booking system logic (Sprint 6), with Ayabonga and Sinothando |
+| As an admin, I want to manage requests and data securely, so that I can run the business. | Set up Supabase backend; Design PostgreSQL database schema; Implement CRUD API endpoints (Sprint 6), with Ayabonga |
 
 
 ### Reflection
