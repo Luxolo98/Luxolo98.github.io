@@ -66,8 +66,15 @@ I work quietly and carefully, and through projects like PC Revival I have learne
 <a class="card" href="projects"><b>Projects</b><span>HERMS, UniMart, Eben Studios, PC Revival and more</span></a>
 <a class="card" href="agile"><b>Agile Portfolio</b><span>Charter, backlog, sprints and logbook for PC Revival</span></a>
 <a class="card" href="Reflections"><b>Reflections</b><span>What I learned in Work Readiness</span></a>
-<a class="card" href="https://github.com/Luxolo98/Luxolo98.github.io/blob/main/Mock%20interview%20Luxolo%20Matshikiza%20219098751%20(1)%20(1)%20(1).mp4"><b>Mock Interview</b><span>Watch my STAR-method interview video</span></a>
+<a class="card" href="#interview"><b>Mock Interview</b><span>Watch my STAR-method interview video</span></a>
 </div>
+
+## Mock Interview {#interview}
+
+<video controls preload="metadata" style="width:100%;max-width:800px;border-radius:10px;border:1px solid #00e5ff">
+  <source src="videos/mock-interview.mp4" type="video/mp4">
+  Your browser could not play the video. <a href="videos/mock-interview.mp4">Download it here</a>.
+</video>
 
 ## Hobbies
 
