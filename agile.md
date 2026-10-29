@@ -34,7 +34,15 @@ em{color:#52606d}
 
 ### Evidence
 
-The charter was a group document. It was built by the whole team and sets out our purpose and values, goals, success metrics, workflow, decision making and conflict resolution.
+The Agile Team Charter was our team's shared agreement for PC Revival, written in Google Docs and last updated on 4 May 2026. Its main parts:
+
+- **Purpose and vision:** an affordable, trustworthy on-campus laptop repair, upgrade and refurbished laptop service for CPUT students.
+- **Roles (7 members):** Project Manager, Researcher, Writer/Editor, Presenter, Designer, Researcher Assistant and Designer Assistant. My role was **Researcher**.
+- **Ways of working:** a Kanban board on Trello, with planning meetings, 2 to 3 stand-ups a week, reviews and retrospectives after milestones.
+- **Success and goals:** SMART goals, including collecting 20 to 30 valid survey responses to support the problem statement.
+- **Decisions:** consensus first, with the Project Manager deciding when the team is stuck.
+- **Definition of Done:** work is complete, reviewed, evidenced (graphs or screenshots), documented and agreed by the team.
+- **Values and risks:** transparency, shared ownership, respect and a learning mindset; risks such as data backup, security and building trust with students.
 
 - My contribution: I contributed directly to setting our team success metrics, defining our survey research deliverables, and documenting the core technical roles and backend responsibilities for our service platform.
 - Related card on Trello: *Assign group roles* (Product Backlog list, due 2 Mar), a whole-team card.
